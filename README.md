@@ -1,0 +1,1 @@
+# azure-entra-app-registration1
