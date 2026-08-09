@@ -1,1 +1,1 @@
-# azure-entra-app-registration1
+# azure-entra-app-registrations
